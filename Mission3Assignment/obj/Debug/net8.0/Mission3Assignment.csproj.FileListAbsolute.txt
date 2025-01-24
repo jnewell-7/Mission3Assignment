@@ -1,0 +1,15 @@
+/Users/jacks/RiderProjects/Mission3Assignment/Mission3Assignment/bin/Debug/net8.0/Mission3Assignment
+/Users/jacks/RiderProjects/Mission3Assignment/Mission3Assignment/bin/Debug/net8.0/Mission3Assignment.deps.json
+/Users/jacks/RiderProjects/Mission3Assignment/Mission3Assignment/bin/Debug/net8.0/Mission3Assignment.runtimeconfig.json
+/Users/jacks/RiderProjects/Mission3Assignment/Mission3Assignment/bin/Debug/net8.0/Mission3Assignment.dll
+/Users/jacks/RiderProjects/Mission3Assignment/Mission3Assignment/bin/Debug/net8.0/Mission3Assignment.pdb
+/Users/jacks/RiderProjects/Mission3Assignment/Mission3Assignment/obj/Debug/net8.0/Mission3Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacks/RiderProjects/Mission3Assignment/Mission3Assignment/obj/Debug/net8.0/Mission3Assignment.AssemblyInfoInputs.cache
+/Users/jacks/RiderProjects/Mission3Assignment/Mission3Assignment/obj/Debug/net8.0/Mission3Assignment.AssemblyInfo.cs
+/Users/jacks/RiderProjects/Mission3Assignment/Mission3Assignment/obj/Debug/net8.0/Mission3Assignment.csproj.CoreCompileInputs.cache
+/Users/jacks/RiderProjects/Mission3Assignment/Mission3Assignment/obj/Debug/net8.0/Mission3Assignment.sourcelink.json
+/Users/jacks/RiderProjects/Mission3Assignment/Mission3Assignment/obj/Debug/net8.0/Mission3Assignment.dll
+/Users/jacks/RiderProjects/Mission3Assignment/Mission3Assignment/obj/Debug/net8.0/refint/Mission3Assignment.dll
+/Users/jacks/RiderProjects/Mission3Assignment/Mission3Assignment/obj/Debug/net8.0/Mission3Assignment.pdb
+/Users/jacks/RiderProjects/Mission3Assignment/Mission3Assignment/obj/Debug/net8.0/Mission3Assignment.genruntimeconfig.cache
+/Users/jacks/RiderProjects/Mission3Assignment/Mission3Assignment/obj/Debug/net8.0/ref/Mission3Assignment.dll
